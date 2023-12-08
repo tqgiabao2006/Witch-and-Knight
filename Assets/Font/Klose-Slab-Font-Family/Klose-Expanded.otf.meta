@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 05ba66ce88cc8aa4d832b248b06a4a0b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Klose
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f48316cde0917284fbb11bbc1522150a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
